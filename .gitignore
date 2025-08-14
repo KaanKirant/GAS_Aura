@@ -1,0 +1,25 @@
+# Ignore Intermediate files
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Ignore binaries
+Binaries/
+
+# Ignore built data
+*.suo
+*.user
+*.userprefs
+*.sln
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Ignore assets (optional)
+Content/**
+
+# But keep source code
+!Source/**
+!Config/**
+!*.uproject
