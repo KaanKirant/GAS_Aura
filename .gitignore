@@ -22,4 +22,5 @@ Content/**
 # But keep source code
 !Source/**
 !Config/**
+!Blueprints/**
 !*.uproject
