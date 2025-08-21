@@ -18,3 +18,12 @@ Binaries/
 
 # Ignore assets (optional)
 Content/Assets**
+
+# Ignore Platforms
+Platforms/
+
+# Ignore .idea
+.idea/
+
+# Ignore .vsconfig
+.vsconfig
