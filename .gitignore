@@ -17,10 +17,4 @@ Binaries/
 *.VC.opendb
 
 # Ignore assets (optional)
-Content/**
-
-# But keep source code
-!Source/**
-!Config/**
-!Blueprints/**
-!*.uproject
+Content/Assets**
