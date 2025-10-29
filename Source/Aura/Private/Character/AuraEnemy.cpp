@@ -70,8 +70,7 @@ void AAuraEnemy::BeginPlay()
 		);
 
 		OnHealthChanged.Broadcast(AuraAS->GetHealth());
-		OnHealthChanged.Broadcast(AuraAS->GetMaxHealth());
-		
+		OnMaxHealthChanged.Broadcast(AuraAS->GetMaxHealth());
 	}
 }
 
